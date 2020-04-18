@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development on Sergio Franco</title>
+    <link>https://sergioifg94.github.io/tags/development/</link>
+    <description>Recent content in development on Sergio Franco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ie</language>
+    <lastBuildDate>Sat, 18 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sergioifg94.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Higher order functions over collections in Go</title>
+      <link>https://sergioifg94.github.io/posts/higher-order-collections/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sergioifg94.github.io/posts/higher-order-collections/</guid>
+      <description>As a newcomer to Go with a background of functional programming, one of my first questions was &amp;ldquo;are functions first class citizens in Go?&amp;rdquo; followed by the next question: &amp;ldquo;are there any implementations of higher order functions over iterables such as map, filter, or fold/reduce?&amp;rdquo; For reasons beyond the scope of this blog post, there is no standard implementation of this pattern. However, it&amp;rsquo;s very simple to write your own little functional toolbox:</description>
+    </item>
+    
+  </channel>
+</rss>
